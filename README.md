@@ -1,6 +1,6 @@
 - Hi, I’m @liagatinha123, but you can call me lia 🇧🇷
 - I’m currently learning javascript 
-- Only doing this as a surprise for my programmer boyfriend, so please don’t judge me (I’m starting to enjoy this stuff)
+- Only doing this as a surprise for my coder boyfriend, so please don’t judge me (I’m starting to enjoy this stuff)
 - Pronouns: She/Her, Ela/Dela
 
 - Brasil 
